@@ -1,1 +1,1 @@
-"This is Michael's first gid project! (Not really though)"
+"This is Michael's first git project! (Not really though)"
